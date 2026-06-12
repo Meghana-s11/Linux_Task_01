@@ -37,6 +37,8 @@ Successfully installed Kali Linux on VMware Workstation and verified proper func
 ### Verification Screenshots
 
 * Kali Linux Desktop
+  <img width="1280" height="800" alt="screenshots1" src="https://github.com/user-attachments/assets/50b2e94a-0f62-44d4-8e91-03c4a77b00b7" />
+
 * Terminal Window
 * System Information
 
