@@ -40,7 +40,11 @@ Successfully installed Kali Linux on VMware Workstation and verified proper func
   <img width="1280" height="800" alt="screenshots1" src="https://github.com/user-attachments/assets/50b2e94a-0f62-44d4-8e91-03c4a77b00b7" />
 
 * Terminal Window
+  <img width="1280" height="800" alt="screenshots2" src="https://github.com/user-attachments/assets/8468c266-2057-496a-927b-fcea4d2fb4dd" />
+
 * System Information
+ <img width="1280" height="800" alt="screenshots3" src="https://github.com/user-attachments/assets/c0282ef8-235a-45af-b5d7-fc6a1ab04e3d" />
+ 
 
 ---
 
