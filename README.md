@@ -63,6 +63,9 @@ The following essential Linux commands were executed and analyzed.
 | `whoami`   | Displays the currently logged-in user                |
 | `hostname` | Displays the system hostname                         |
 
+<img width="1280" height="800" alt="screenshots4" src="https://github.com/user-attachments/assets/fe45c7c2-6469-4abf-a1e1-e04f48d893a4" />
+
+
 ## Key Learning
 
 These commands form the foundation of Linux navigation and are frequently used by:
@@ -106,6 +109,8 @@ tree
 ```
 
 ## Learning Outcome
+Folder Structure Screenshot
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2baa4725-7133-4949-a897-abf9925abde6" />
 
 * Directory Creation
 * Hierarchical File Structure
@@ -192,6 +197,7 @@ date
 uptime
 pwd
 ```
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5208f299-4115-4807-8ccc-70745c250913" />
 
 ## Information Retrieved
 
