@@ -1,0 +1,23 @@
+Linux Task 01 – Research Answers
+
+Name: Stephen J
+
+1. What is Linux?
+
+Linux is an open-source operating system used on computers, servers, and cloud platforms. It is known for its stability, security, and flexibility.
+
+2. Why is Linux important in Cyber Security?
+
+Linux is important in cybersecurity because most security tools, servers, and penetration testing environments run on Linux. It provides powerful command-line tools and better control over system operations.
+
+3. Difference Between Linux and Windows
+
+Linux is an open-source operating system, whereas Windows is a proprietary operating system developed by Microsoft. Linux is highly customizable and widely used in servers and cybersecurity, while Windows is commonly used on personal computers.
+
+4. What is a Linux Distribution?
+
+A Linux Distribution (Distro) is a version of Linux that includes the Linux kernel along with software packages and tools. Examples include Ubuntu, Kali Linux, and Parrot OS.
+
+5. Why do Ethical Hackers Prefer Linux-Based Operating Systems?
+
+Ethical hackers prefer Linux because it provides powerful networking and security tools, strong customization options, better security, and support for penetration testing applications.

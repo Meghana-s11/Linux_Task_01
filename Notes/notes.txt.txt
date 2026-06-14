@@ -1,0 +1,7 @@
+Linux Task 01 – Notes
+
+During this task, I learned the basics of the Linux operating system and terminal usage. I practiced navigation commands such as pwd, ls, cd, history, whoami, and hostname.
+
+I learned how to create directories using mkdir and manage files using touch, cp, mv, and rm commands. I also collected system information using commands such as uname -a, date, uptime, and pwd.
+
+This task helped me understand Linux file management, directory structure, and the importance of Linux in cybersecurity and system administration.

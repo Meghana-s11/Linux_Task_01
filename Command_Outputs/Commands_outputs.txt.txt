@@ -1,0 +1,17 @@
+pwd
+/home/kali
+
+whoami
+kali
+
+hostname
+kali
+
+uname -a
+Linux kali ...
+
+date
+Thu Jun 11 ...
+
+uptime
+up 18 min ...
